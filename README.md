@@ -19,3 +19,5 @@ Fraud is highly imbalanced, requiring metrics beyond accuracy
 Fraud occurs mainly in TRANSFER and CASH_OUT transaction types
 
 Transaction type is a strong indicator of fraudulent behavior
+
+source of the database is "/kaggle/input/online-payment-fraud-detection"
